@@ -2,6 +2,7 @@
 - 👀 I’m interested in html, css, JavaScript
 - 🌱 I’m currently learning html, css
 - 💞️ I’m looking to collaborate on the costruction of a website
+- email: silviafabbrilucatini@yahoo.es
 
 
 <!---
