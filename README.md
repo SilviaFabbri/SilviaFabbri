@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SilviaFabbri
-- 👀 I’m interested in html, css, JavaScript
-- 🌱 I’m currently learning html, css
-- 💞️ I’m looking to collaborate on the costruction of a website
-- 📫 How to reach me: silviafabbrilucatini@yahoo.es
+- 👀 I’m interested in html, css, JavaScript, C#
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate in program development
+- 📫 How to reach me: sf@silvia-fabbri.it
 
 
 <!---
