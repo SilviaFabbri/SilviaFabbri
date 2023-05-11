@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SilviaFabbri
-- 👀 I’m interested in html, css, JavaScript, C#
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in development
+- 🌱 I’m currently learning Java, docker, Redis
 - 💞️ I’m looking to collaborate in program development
-- 📫 How to reach me: sf@silvia-fabbri.it
+- 📫 How to reach me: laje82@gmail.com
 
 
 <!---
